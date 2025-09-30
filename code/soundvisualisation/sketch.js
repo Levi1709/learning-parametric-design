@@ -235,5 +235,3 @@ class TerrainMap {
   }
 }
 
-
-// aktualisierung
